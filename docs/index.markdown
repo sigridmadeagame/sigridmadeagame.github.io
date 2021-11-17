@@ -4,3 +4,4 @@
 
 layout: home
 ---
+![Sigrid](/img/sigrid-splash.png)
