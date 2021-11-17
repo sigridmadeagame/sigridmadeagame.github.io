@@ -4,4 +4,6 @@
 
 layout: home
 ---
+{:refdef: style="text-align: center;"}
 ![Sigrid](/img/sigrid-splash.png)
+{: refdef}
