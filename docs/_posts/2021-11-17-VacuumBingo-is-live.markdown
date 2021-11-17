@@ -5,6 +5,7 @@ date:   2021-11-17 18:04:39 +0100
 categories: games published
 ---
 Today VacuumBingo whent live on appstore!
+
 ![VacuumBingo](/img/vacuum-bingo.webp){:class="img-responsive"}
 
 [VacuumBingo-appstore](https://apps.apple.com/us/app/vacuum-bingo/id1595282455)
